@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6Nzq5EmI71VpB0u3zUmmtk4HC6ARBpmphfu6TtCdu8I=",
+  "Source": "ApiGatewayDogMate",
+  "BasePath": "_content/ApiGatewayDogMate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
